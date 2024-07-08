@@ -5,54 +5,129 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b789cdd9-2649-46a9-88a6-bc766cfece9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/ContainerCountComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/hw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/lesson3/hw.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/Lesson_09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex001/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex001/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex002/ExBeverage/Beverage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex002/ExBeverage/Coffee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex002/ExBeverage/Ingredient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex002/ExBeverage/Milk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex002/ExBeverage/Water.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex002/ExBeverage/Вeans.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex002/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex002/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex004/ExBeverage/Beverage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex004/ExBeverage/Coffee$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex004/ExBeverage/Coffee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex004/ExBeverage/Ingredient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex004/ExBeverage/Milk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex004/ExBeverage/Water.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex004/ExBeverage/Вeans.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex004/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex005/AgeComporator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex005/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex005/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex006/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex006/Worker1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex006/Worker2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex006/Worker3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex007/Beverage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex007/Coffee$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex007/Coffee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex007/Ingredient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex007/Milk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex007/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex007/Water.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Ex007/Вeans.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Лекции/ОПП. Урок 3. Дополнительные материалы/Lesson_09/out/production/Lesson_09/Lesson_09/Lesson_09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Hw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expCalcul/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expCalcul/Model2_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expCalcul/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expCalcul/Voiw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expCalcul/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expStudent/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expStudent/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expStudent/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expStudent/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expStudent/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/expStudent/Voiw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ConvertByteToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ConvertToJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ConvertToPDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/InterReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Report2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ReportStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex001Calc/CalcModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex001Calc/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex001Calc/Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex001Calc/PresenterOfT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex001Calc/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex001Calc/SumModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex001Calc/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/Client/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/Core/Infrastructure/Phonebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/Core/MVP/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/Core/MVP/Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/Core/MVP/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/Core/Models/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/UI/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/UI/ConsoleView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex002Phonebook/UI/NewConsoleView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Client/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Client/ConsoleView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Client/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Core/Infrastructure/Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Core/Models/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Core/Presenters/Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Core/Views/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/CalculateArea/Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/CalculateArea/CalculateArea$RefInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/CalculateArea/CalculateArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/Exceptions/MathematicsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/Exceptions/UnacceptableValueException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/Shapes/Canvas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/Shapes/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/Shapes/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/Shapes/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/Shapes/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Ex003Math/Mathematics/Shapes/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/out/production/Програма от рисования фигур/Програма от рисования фигур.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Програма от рисования фигур/Програма от рисования фигур.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex001_1SRP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex001_2SRP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex002_1OCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex002_2OCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex003_1LSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex003_2LSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex004_1ISP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex004_2ISP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex005_1DIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/Ex005_2DIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/BaseClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/BasePhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/BookDIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/ConsoleView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/ConsoleViewDIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/DataManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/EMail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex001_1SRP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex001_2SRP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex002_1OCP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex002_2OCP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex003_1LSP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex004_1ISP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex004_2ISP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex005_1DIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Ex005_2DIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Fax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/IPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Nokia3310.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Nokia3311.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Planner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/PlannerSRP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Siemens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/SilverPartner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/VIPPartner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/ViewDIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/WinFormView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/WinFormViewDIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Лекции/Урок 6. SOLID/out/production/Урок 6. SOLID/Урок 6. SOLID.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cеминары/src/main/java/ru/gb/lesson6/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cеминары/src/main/java/ru/gb/lesson6/Homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cеминары/src/main/java/ru/gb/lesson6/i/InterfaceSegregationPrinciple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cеминары/src/main/java/ru/gb/lesson6/i/InterfaceSegregationPrinciple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +139,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -86,21 +162,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/fyous/OneDrive/Рабочий стол/Java/2_OOP_basic/oop_homework&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/fyous/OneDrive/Рабочий стол/Java/2_OOP_basic/Cеминары",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -115,13 +192,13 @@
       <recent name="lesson1.expBank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson3.hw">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.Demo" />
+  <component name="RunManager" selected="Application.lesson6.Main">
+    <configuration name="Hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.Hw" />
       <module name="oop_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.*" />
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.hw" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.expStudent.Main" />
       <module name="oop_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.*" />
+          <option name="PATTERN" value="lesson5.expStudent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson3.hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.hw" />
+    <configuration name="Presenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.expStudent.Presenter" />
       <module name="oop_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson5.expStudent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.expBank.main" />
+    <configuration name="lesson5.expCalcul.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.expCalcul.main" />
       <module name="oop_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.expBank.*" />
+          <option name="PATTERN" value="lesson5.expCalcul.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,28 +245,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oop_20230626" />
+    <configuration name="lesson6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.Main" />
+      <module name="oop_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.expBank.*" />
+          <option name="PATTERN" value="lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson1.expBank" />
-      <option name="MAIN_CLASS_NAME" value="lesson1.expBank.AccountTest2" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson3.hw" />
-        <item itemvalue="Application.hw" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="JUnit.AccountTest2" />
+        <item itemvalue="Application.lesson6.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Presenter" />
+        <item itemvalue="Application.lesson5.expCalcul.main" />
+        <item itemvalue="Application.Hw" />
       </list>
     </recent_temporary>
   </component>
@@ -221,5 +296,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Account_java$lesson5_expCalcul_main.ic" NAME="lesson5.expCalcul.main Coverage Results" MODIFIED="1720189141323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lesson5.expCalcul.*</FILTER>
+    </SUITE>
   </component>
 </project>

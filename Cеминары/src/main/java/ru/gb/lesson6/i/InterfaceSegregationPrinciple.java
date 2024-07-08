@@ -4,7 +4,12 @@ import java.util.List;
 
 public class InterfaceSegregationPrinciple {
 
-    public static void main(String[] args) {
+    public  static void main(String[] args) {
+//
+//        NdsCalculator n = new NdsCalculator();
+//
+//        WebHtmlCreator w = new WebHtmlCreator();
+//        System.out.println(w.createHtmlPage());
 
 
         // Принцип разделения интерфейсов
@@ -32,6 +37,8 @@ public class InterfaceSegregationPrinciple {
         }
 
     }
+
+
 
     interface NdsResolver {
         double nds();
